@@ -1,4 +1,4 @@
-amaroid-sound
+android-sound
 =============
 
 Android SoundPool sample
